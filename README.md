@@ -1,6 +1,6 @@
 # Hello 😁
 
-Perkenalkan nama saya **Rama Aditya Saputra**
+Helo there, I'am **Rama Aditya Saputra**
 
-Saya seorang **developer** kah? 
+Am I **developer**? 
 
