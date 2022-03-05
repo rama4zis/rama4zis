@@ -4,8 +4,6 @@ Helo there, I'am **Rama Aditya Saputra**
 
 You can call me **Rama**
 
-Am I **developer**? 
-
 ### Github Statistic
 <p align="left">
   <img src="https://raw.githubusercontent.com/rama4zis/rama4zis/main/Qiqi.gif?raw=true" align="right" width="300"/> 
