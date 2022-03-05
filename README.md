@@ -1,4 +1,4 @@
-# Hello 😁
+# Hello 👋
 
 Helo there, I'am **Rama Aditya Saputra**
 
