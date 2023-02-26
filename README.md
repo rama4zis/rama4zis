@@ -45,7 +45,10 @@ Technologies I work with:
 
 <img src="https://github-readme-stats.vercel.app/api?username=rama4zis&show_icons=true&theme=dark" alt="rama4zis" />
 
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=rama4zis)
+
+
 ![](https://komarev.com/ghpvc/?username=rama4zis&style=flat-square)
 
 
