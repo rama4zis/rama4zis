@@ -4,6 +4,8 @@ My name is **Rama** and I'm a **Full Stack Developer** from **[Surabaya](https:/
 I'm really interested with new technologies and I'm always learning new things.
 
 **Let me cook 🔥**
+
+![](https://komarev.com/ghpvc/?username=rama4zis&style=flat-square)
  
 
 ## Stats
@@ -11,13 +13,6 @@ I'm really interested with new technologies and I'm always learning new things.
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rama4zis&show_icons=true&theme=dark" alt="rama4zis" />
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=rama4zis)
-
-
-![](https://komarev.com/ghpvc/?username=rama4zis&style=flat-square)
-
 
 </p>
 
