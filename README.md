@@ -12,7 +12,7 @@ I'm really interested with new technologies and I'm always learning new things.
 
 <p align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rama4zis&show_icons=true&theme=dark)](https://github.com/rama4zis/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rama4zis&show_icons=true&theme=dark)
 
 </p>
 
