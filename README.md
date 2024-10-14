@@ -15,7 +15,7 @@ My name is **Rama**, and I'm a **Full Stack Developer** from **[Surabaya](https:
 - **Frontend:** React, Next.js, TypeScript, HTML5, CSS3, TailwindCSS
 - **Backend:** Node.js, Express, Prisma, Supabase, MySQL, PostgreSQL
 - **Tools & Platforms:** Git, Vercel, Docker, Supabase
-- **Languages:** JavaScript, TypeScript, SQL, PHP, Python
+- **Languages:** JavaScript, TypeScript, SQL, PHP, Python, Golang
 
 ## Stats
 
