@@ -1,12 +1,21 @@
+Here's an updated profile with the tech stack section added:
+
+---
+
 # Hello 👋
 
-My name is **Rama** and I'm a **Full Stack Developer** from **[Surabaya](https://en.wikipedia.org/wiki/Surabaya)**, Indonesia.
-I'm really interested with new technologies and I'm always learning new things.
+My name is **Rama**, and I'm a **Full Stack Developer** from **[Surabaya](https://en.wikipedia.org/wiki/Surabaya)**, Indonesia. I'm really interested in new technologies, and I'm always learning new things.
 
 **Let me cook 🔥**
 
 ![](https://komarev.com/ghpvc/?username=rama4zis&style=flat-square)
- 
+
+## Technologies I Work With
+
+- **Frontend:** React, Next.js, TypeScript, HTML5, CSS3, TailwindCSS
+- **Backend:** Node.js, Express, Prisma, Supabase, MySQL, PostgreSQL
+- **Tools & Platforms:** Git, Vercel, Docker, Supabase
+- **Languages:** JavaScript, TypeScript, SQL, PHP, Python
 
 ## Stats
 
@@ -27,3 +36,7 @@ I'm really interested with new technologies and I'm always learning new things.
 </p>
 
 <img src="https://raw.githubusercontent.com/rama4zis/rama4zis/main/Qiqi.gif" alt="Qiqi" width="75"/>
+
+---
+
+Let me know if you'd like any changes!
