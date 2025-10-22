@@ -63,13 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rama4zis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rama4zis&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
 <!-- ## 🌟 Featured Projects
 
 <div align="center">
