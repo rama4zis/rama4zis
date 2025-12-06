@@ -57,21 +57,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rama4zis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<!-- ## 🌟 Featured Projects
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rama4zis&repo=repo-name&theme=tokyonight&hide_border=true)](https://github.com/rama4zis/repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rama4zis&repo=another-repo&theme=tokyonight&hide_border=true)](https://github.com/rama4zis/another-repo)
-
-</div> -->
-
 ## 📫 Let's Connect!
 
 <div align="center">
